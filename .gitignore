@@ -36,6 +36,3 @@ Thumbs.db
 .pnp/
 .pnp.js
 __pycache__/
-
-# Three.js specific
-# Ignore texture or large files if th
